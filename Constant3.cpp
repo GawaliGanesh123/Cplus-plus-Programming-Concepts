@@ -10,7 +10,7 @@ class Demo
         Demo() : j(20)
         {
             i = 10;
-            // j = 20;
+           // j = 20;
         }
 
         Demo(int a, int b) : j(b)
