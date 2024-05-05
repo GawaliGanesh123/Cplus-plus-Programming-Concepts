@@ -27,7 +27,7 @@ class Arithematic
         }
         ~Arithematic()
         {
-            cout<<"Inside Destructor\n";
+          cout<<"Inside Destructor\n";
         }
 };
 
