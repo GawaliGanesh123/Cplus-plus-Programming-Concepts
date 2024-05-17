@@ -21,6 +21,7 @@ class Demo
 
 int main()
 {
+    
    Demo obj(11,21);
    cout<<obj.i<<"\n";
    cout<<obj.j<<"\n";
