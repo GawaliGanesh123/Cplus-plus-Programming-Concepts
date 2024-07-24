@@ -46,6 +46,7 @@ class DerivedX : public Derived
         {   cout<<"Inside Derivedx Sun\n";  }
 };
 
+
 int main()
 {
     DerivedX dobj;   // Constructor of Base  Constructor of Derived constructor of Derivedx
