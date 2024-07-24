@@ -21,6 +21,7 @@ class Arithematic
             return No1 + No2 + No3;
         }
 };
+
 int main()
 {
     Arithematic obj;
