@@ -16,6 +16,7 @@ class Marvellous
         {   cout<<"Inside Sun of Marvellous\n";   }
 };
 
+
 class Demo : public Marvellous
 {   
     public:
