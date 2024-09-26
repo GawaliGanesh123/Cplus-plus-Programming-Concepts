@@ -31,6 +31,8 @@ class Derived : public Base
         void Gun()
         {   cout<<"Inside Derived gun\n";   }
 };
+
+
 class DerivedX : public Derived
 {
     public:
