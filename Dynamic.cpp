@@ -13,6 +13,8 @@ int main()
 
     // ptr = (int *)malloc(Size * sizeof(int));
 
+    // Use the memory
+
     delete []ptr;
 
     return 0;
