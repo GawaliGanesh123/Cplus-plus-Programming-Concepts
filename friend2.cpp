@@ -27,6 +27,7 @@ class Demo
         friend void Hello::Fun();
 };
 
+
 void Hello::Fun()
 {
     Demo obj;
