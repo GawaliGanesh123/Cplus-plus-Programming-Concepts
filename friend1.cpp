@@ -21,7 +21,6 @@ class Demo
         friend void Fun();
 };
 
-
 void Fun()
 {
     Demo obj;
