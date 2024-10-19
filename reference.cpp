@@ -11,6 +11,7 @@ int main()
     return 0;
 }
 
+
 //  no                  11
 //  &no                 100
 //  x                       11
