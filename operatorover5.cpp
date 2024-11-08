@@ -23,7 +23,7 @@ Demo operator -(Demo op)
 {
         return Demo(-op.x,-op.y);
         // return -op;
-}
+} 
 
 int main()
 {
