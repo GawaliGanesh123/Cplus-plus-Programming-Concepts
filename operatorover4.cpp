@@ -12,7 +12,7 @@ class Demo
             x = i;
             y = j;
         }
-};
+}; 
 
 bool operator == (Demo op1, Demo op2)
 {
