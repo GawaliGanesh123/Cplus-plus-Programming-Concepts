@@ -13,7 +13,7 @@ class Demo
             y = j;
         }
 };
-
+ 
 Demo operator ++(Demo &op)          // Pre
 {
         op.x++;
