@@ -14,6 +14,7 @@ class Demo
         }
 };
 
+
 Demo operator --(Demo &op)          // Pre
 {
         op.x--;
