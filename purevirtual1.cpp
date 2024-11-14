@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class Base
+class Base 
 {
     public:
         int x,y;
