@@ -18,6 +18,7 @@ class Base
             cout<<"Inside base fun\n";
         }
 };
+
 class Derived : public Base     // Derived is a class which derived from Base class
 {
     public:
