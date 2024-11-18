@@ -30,7 +30,7 @@ class Demo
 //            cout<<this->i<<"\n";
         }
 };
-
+ 
 int Demo::x = 30;
 
 int main()
