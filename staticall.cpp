@@ -31,6 +31,7 @@ class Demo
         }
 };
 
+
 int Demo::x = 30;
 
 int main()
