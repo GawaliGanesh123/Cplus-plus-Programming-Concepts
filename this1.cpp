@@ -13,7 +13,7 @@ class Demo
         x = a;
         y = b;
     }
-
+ 
     // void fun(Demo *this, int no)
     void fun(int no)    // 1000
     {
