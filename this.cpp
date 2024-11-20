@@ -14,7 +14,7 @@ class Demo
         y = b;
     }
 };
-
+ 
 int main()
 {
     Demo obj1;
