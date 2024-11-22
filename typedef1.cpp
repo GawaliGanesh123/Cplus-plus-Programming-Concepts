@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    struct Demo
+    struct Demo 
     {
         int no1;
         int no2;
