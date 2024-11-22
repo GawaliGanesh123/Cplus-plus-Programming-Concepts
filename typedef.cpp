@@ -4,7 +4,7 @@ using namespace std;
 #define MAX 10
 
 int main()
-{
+{ 
     typedef int NUMBER;
     typedef char LETTER;
 
