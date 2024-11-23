@@ -15,7 +15,7 @@ class Base
         virtual void run()      // 4000
         {   cout<<"Base run"<<"\n"; }
 };
-class Derived : public Base
+class Derived : public Base 
 {
     public:
         int i,j;
