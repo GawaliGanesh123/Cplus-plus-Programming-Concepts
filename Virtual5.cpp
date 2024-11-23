@@ -9,7 +9,7 @@ class Base
         virtual void fun()      // 1000
         {   cout<<"Base fun"<<"\n"; }
         virtual void gun()      // 2000
-        {   cout<<"Base gun"<<"\n"; }
+        {   cout<<"Base gun"<<"\n"; } 
         void sun()          // 3000
         {   cout<<"Base sun"<<"\n"; }
         virtual void run()      // 4000
