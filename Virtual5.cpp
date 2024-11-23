@@ -18,7 +18,7 @@ class Base
 class Derived : public Base 
 {
     public:
-        int i,j;
+        int i,j; 
 
         void fun()      // 5000
         {    cout<<"Derived fun"<<"\n"; }
